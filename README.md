@@ -1,4 +1,4 @@
-# USB_LoRa_RSSI_Detecter
+# 서비스명 : USB Arduino Serial Loger
 
 **USB Serial API**를 통해 Arduino에 연결된 **LoRa 장치**의 RSSI 신호 강도, 현재 위치, 송수신 데이터를 **실시간으로 모니터링**할 수 있는 웹 기반 서비스입니다.  
 
